@@ -22,11 +22,3 @@ We've utilized various resources including articles and research papers to enhan
 - *Man and His Symbols* (Book)
 
 ---
-
-### Notes:
-
-- Ensure all links are correctly formatted as clickable URLs.
-- Use markdown syntax for emphasis (*italic* and **bold** text) where necessary.
-- Consider adding a brief introduction to provide context about KareerKit at the beginning of the `README.md` file.
-
-This structure provides clear sections for different aspects of your project, making it easier for readers to navigate and understand. Adjust the content and formatting based on your specific needs and additional details about KareerKit.
